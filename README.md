@@ -2,6 +2,7 @@
 <h3 align="center">An engineering student ready to learn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfman99&label=Profile%20views&color=5257ff&style=flat-square" alt="alfman99" /> </p>
+![](https://hit.yhype.me/github/profile?user_id=43989698)
 
 - 🔭 I’m currently working on [AssaultDll](https://github.com/alfman99/AssaultDll)
 
